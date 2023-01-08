@@ -1,6 +1,11 @@
 Unreleased
 --------------
 
+0.3.1 2023-01-08
+--------------
+
+- gluten-async: small fix for ssl/tls backends, to address a memory leak.
+
 0.3.0 2022-08-08
 --------------
 
